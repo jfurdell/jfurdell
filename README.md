@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Furdell - @jfurdell
 - 👀 I’m a software engineer building a new website, https://sportsmap.world
-- 🌱 I’m building a full stack web service using Typescript, Node.js, React, Mapbox, Postgres and Heroku.
+- 🌱 I’m using Typescript, Node.js, React, Mapbox, Postgres and Heroku.
 - 📫 How to reach me: https://www.linkedin.com/in/jfurdell/
 
 <!---
