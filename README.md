@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Furdell - @jfurdell
-- 👀 I’m a software engineer taking a career sabbatical, and working on a personal project on Gitlab.
-- 🌱 I’m currently learning how up a full stack web service using Node.js, Typescript/React, Mapbox, Postgres and Heroku.
+- 👀 I’m a software engineer building a new website, https://sportsmap.world
+- 🌱 I’m building a full stack web service using Typescript, Node.js, React, Mapbox, Postgres and Heroku.
 - 📫 How to reach me: https://www.linkedin.com/in/jfurdell/
 
 <!---
